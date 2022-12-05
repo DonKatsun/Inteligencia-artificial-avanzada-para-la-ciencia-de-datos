@@ -1,7 +1,6 @@
 # Stream flow and Discharge prediction with Machine Learning \& AI
 
-A short description about the project and/or client.
-
+The use of frameworks to implement artificial intelligence and machine learning has been in a raise for the last years, this tools are capable to ease many process like finantial, marketing, health or cyber-security. In this case we used this tools to predict the values of Stage and Discharge of a river when the measeurement sensors fail. This project it's divided in two parts, the first it's intended to replicate values provided by Kenneth W. Chapman. in a CSV. The second part is to predict values making use of images retrieved from de United States Geological Survey. More than 60,000 images and 40,000 values captured by sensors in the river.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
